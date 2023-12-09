@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statics", "Statics\Statics.csproj", "{5FEFDB72-19A6-459A-9CC4-E12C589C7DD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{1C9B0234-2BD0-4F03-9735-7DD3C019B7C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEFDB72-19A6-459A-9CC4-E12C589C7DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEFDB72-19A6-459A-9CC4-E12C589C7DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEFDB72-19A6-459A-9CC4-E12C589C7DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEFDB72-19A6-459A-9CC4-E12C589C7DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9B0234-2BD0-4F03-9735-7DD3C019B7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9B0234-2BD0-4F03-9735-7DD3C019B7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9B0234-2BD0-4F03-9735-7DD3C019B7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9B0234-2BD0-4F03-9735-7DD3C019B7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
